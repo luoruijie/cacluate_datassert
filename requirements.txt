@@ -1,0 +1,4 @@
+gensim
+jieba
+padddlepaddle==2.5.1
+tqdm
